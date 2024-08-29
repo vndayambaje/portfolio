@@ -9,9 +9,9 @@ Masters Data Science
 - big impact project 2!
 
 ### Projects
-- Project 1 details
+- [DataScience Project 1 details](https://github.com/vndayambaje/DataScienceEcosystem)
   ![PLACEHOLDER FOR IMAGE](/assets/img/bike_study.jpeg)
-- Project 2 details
-- Project 3 details
-- Project 4 details
-- Project 5 details 
+- DataScience Project 2 details
+- DataScience Project 3 details
+- DataScience Project 4 details
+- DataScience Project 5 details 
