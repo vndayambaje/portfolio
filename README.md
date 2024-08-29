@@ -8,7 +8,7 @@ Devops Engineer @ Accenture
 - big impact project 1!
 - big impact project 2!
 
-- ### Projects
+### Projects
 - Project 1 details
 - Project 2 details
 - Project 3 details
