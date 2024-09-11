@@ -9,7 +9,7 @@ Masters Data Science
 - big impact project 2!
 
 ### Projects
-- [DataScience Project 1 details](https://github.com/vndayambaje/Airbnb_EDA_Project)
+- [Airbnb Exploratory Data Analysis (EDA): Factors Influencing Customer Ratings and Demand ](https://github.com/vndayambaje/Airbnb_EDA_Project)
   ![PLACEHOLDER FOR IMAGE](/assets/img/bike_study.jpeg)
 - DataScience Project 2 details
 - DataScience Project 3 details
