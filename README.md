@@ -9,6 +9,7 @@
 ## [Airbnb Exploratory Data Analysis (EDA): Factors Influencing Customer Ratings and Demand ](https://github.com/vndayambaje/Airbnb_EDA_Project)
 
   **Objective**: 
+  
   This project aims to explore and analyze the characteristics and features of Airbnb listings to understand their influence on customer ratings and demand. The goal is to provide actionable 
   insights for better decision-making regarding resource allocation.
 
