@@ -29,6 +29,7 @@
 
   By addressing these questions, we aim to provide leadership with a comprehensive understanding of Airbnb listing dynamics, enabling informed decisions on resource distribution and strategic 
   focus.
+
   ![PLACEHOLDER FOR IMAGE](/assets/img/Airbnb.jpg)
 ## [Analyzing Historical Stock and Revenue and Building a Dashboad](https://github.com/vndayambaje/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard.git)
 
