@@ -1,9 +1,11 @@
 # Data Analyst
 
 # Education
-**Master of Information and Data Science @  University of California at Berkeley | Berkeley | 2026**
+#### Master of Information and Data Science   
+University of California at Berkeley | Berkeley | 2026
 
-**Bachelor of Science in Chemical Engineering @  Georgia Institute of Technology | Atlanta | 2016**
+#### Bachelor of Science in Chemical Engineering 
+Georgia Institute of Technology | Atlanta | 2016
 
 # Projects
 ## [Airbnb Exploratory Data Analysis (EDA): Factors Influencing Customer Ratings and Demand ](https://github.com/vndayambaje/Airbnb_EDA_Project)
