@@ -37,7 +37,7 @@
 ## [Analyzing Historical Stock and Revenue and Building a Dashboad](https://github.com/vndayambaje/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard.git)
   **Technologies**: 
   
-  Python, Web Scraping, Data Visualization (Plotly)
+    Python, Web Scraping, Data Visualization (Plotly)
   
   **Objective**: 
   
@@ -50,7 +50,7 @@
 ## [AGM Startup Restaurant: Sales Data and Customer Behavior Analysis with Visualization](https://github.com/vndayambaje/ACM-Startup-Restaurant-Sales-Data-and-Customer-Behavior-Analysis-with-Visualization.git)
   **Technologies**: 
   
-  SQL, Python, Pandas, Jupyter Notebook, Postgres, AWS, Docker
+    SQL, Python, Pandas, Jupyter Notebook, Postgres, AWS, Docker
   
   **Objective**: 
   
