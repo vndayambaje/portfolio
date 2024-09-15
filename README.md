@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Education
+# Education
 Masters of Information and Data Science - University of California at Berkeley | Berkeley | 2026
 Bachelor of Science in Chemical Engineering - Georgia Institute of Technology | Atlanta | 2016
 
@@ -30,7 +30,7 @@ Bachelor of Science in Chemical Engineering - Georgia Institute of Technology | 
 - DataScience Project 3 details
 - DataScience Project 4 details
 - DataScience Project 5 details
-- 
+  
 # Work Experience
 ### Consultant @ Accenture
 - **Project**: Cloud Migration Strategy and Optimization
@@ -52,17 +52,18 @@ Bachelor of Science in Chemical Engineering - Georgia Institute of Technology | 
     
  ### Consultant @ IBM
  - **Project**: Infrastructure Performance Optimization and Predictive Maintenance Analytics
-  **Project Description**:
-    In this project, I focused on analyzing system performance metrics to enhance infrastructure health and efficiency. By leveraging SQL and Python, I provided comprehensive insights into error rates, 
-    latency, and resource utilization, leading to improved operational strategies and incident management.
-  **Responsibilities**:
-  - Utilized SQL to collect and query data on system performance, error rates, and resource utilization, enabling thorough analysis of critical infrastructure metrics and identification of performance trends.
-  - Employed Python for advanced data analysis and visualization, processing large datasets to uncover latency patterns and error rate correlations, which informed the development of proactive maintenance 
-    strategies.
-  - Developed and automated reporting tools and dashboards, consolidating metrics from various infrastructures to support SREs in predicting potential failures and optimizing resource allocation.
-  **Results**:
-  - Achieved a 10% reduction in error rates and improved overall system health through detailed analysis and targeted performance improvements.
-  - Realized a 20% improvement in incident response times and more effective resource allocation by implementing data-driven maintenance strategies.
-  - Enhanced incident management capabilities and streamlined response efforts by consolidating metrics and providing actionable insights through automated reporting tools.
+   **Project Description**:
+   In this project, I focused on analyzing system performance metrics to enhance infrastructure health and efficiency. By leveraging SQL and Python, I provided comprehensive insights into error rates, 
+   latency, and resource utilization, leading to improved operational strategies and incident management.
+   **Responsibilities**:
+   - Utilized SQL to collect and query data on system performance, error rates, and resource utilization, enabling thorough analysis of critical infrastructure metrics and identification of performance 
+     trends.
+   - Employed Python for advanced data analysis and visualization, processing large datasets to uncover latency patterns and error rate correlations, which informed the development of proactive maintenance 
+     strategies.
+   - Developed and automated reporting tools and dashboards, consolidating metrics from various infrastructures to support SREs in predicting potential failures and optimizing resource allocation.
+   **Results**:
+   - Achieved a 10% reduction in error rates and improved overall system health through detailed analysis and targeted performance improvements.
+   - Realized a 20% improvement in incident response times and more effective resource allocation by implementing data-driven maintenance strategies.
+   - Enhanced incident management capabilities and streamlined response efforts by consolidating metrics and providing actionable insights through automated reporting tools.
 
 
