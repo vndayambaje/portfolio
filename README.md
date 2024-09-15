@@ -15,18 +15,18 @@
 
   **Key Questions**:
   - Which countries have the highest number of Airbnb listings?
-    - I identified the top 10 countries based on listing volume.
-  - What is the relationship between listing features and ratings?
-    - I examined correlations between various listing attributes and customer ratings.
-  - How do highly rated and popular listings differ from less popular and lower-rated ones?
-    - I compared the features of top-performing listings with those of less successful ones.
-  - Which countries exhibit a high number of popular and highly rated listings?
-    - I determined countries with both a high volume of top listings and a high percentage of such listings.
+  - What is the relationship between listing features and ratings?    
+  - How do highly rated and popular listings differ from less popular and lower-rated ones?    
+  - Which countries exhibit a high number of popular and highly rated listings?    
   - What are the key locations within these countries that should be prioritized for resource allocation?
-    - I identified specific locations where increased investment could yield significant returns.
-
+    
   **Outcome**: 
-  
+  - I identified the top 10 countries based on listing volume.
+  - I examined correlations between various listing attributes and customer ratings.
+  - I compared the features of top-performing listings with those of less successful ones.
+  - I determined countries with both a high volume of top listings and a high percentage of such listings.
+  - I identified specific locations where increased investment could yield significant returns.
+
   By addressing these questions, we aim to provide leadership with a comprehensive understanding of Airbnb listing dynamics, enabling informed decisions on resource distribution and strategic 
   focus.
   ![PLACEHOLDER FOR IMAGE](/assets/img/Airbnb.jpg)
