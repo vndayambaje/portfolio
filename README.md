@@ -2,7 +2,6 @@
 
 # Education
 **Master of Information and Data Science @  University of California at Berkeley | Berkeley | 2026**
-
 **Bachelor of Science in Chemical Engineering @  Georgia Institute of Technology | Atlanta | 2016**
 
 # Projects
@@ -86,8 +85,8 @@
   - Provided clear insights into infrastructure performance, enabling senior management to optimize resource allocation and address operational challenges post-migration.
   - Strengthened competitive positioning by applying predictive analytics to cloud migration forecasts and operational expenditures, enhancing customer acquisition strategies and ensuring successful project 
     wins.
-    
- ## Consultant @ IBM
+
+## Consultant @ IBM
  
  ### Infrastructure Performance Optimization and Predictive Maintenance Analytics
 
