@@ -21,23 +21,28 @@
   - What are the key locations within these countries that should be prioritized for resource allocation? I identified specific locations where increased investment could yield significant returns.
 
   **Outcome**: 
+  
   By addressing these questions, we aim to provide leadership with a comprehensive understanding of Airbnb listing dynamics, enabling informed decisions on resource distribution and strategic 
   focus.
   ![PLACEHOLDER FOR IMAGE](/assets/img/Airbnb.jpg)
 ## [Analyzing Historical Stock and Revenue and Building a Dashboad](https://github.com/vndayambaje/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard.git)
 
   **Objective**: 
+  
   This project aims to assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. My job was to extract 
   financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. 
   
   **Outcome**:
+  
   After collecting this data I visualized it in a dashboard to identify patterns or trends. The stocks I worked with were Tesla, Amazon, AMD, and GameStop.
 ## [AGM Startup Restaurant: Sales Data and Customer Behavior Analysis with Visualization](https://github.com/vndayambaje/ACM-Startup-Restaurant-Sales-Data-and-Customer-Behavior-Analysis-with-Visualization.git)
   **Objective**: 
+  
   This project focused on analyzing sales data for AGM Startup Restaurant using SQL and Python within a Docker cluster, with the goal of extracting actionable insights and creating impactful 
   data visualizations to support the Data Science team in developing the RFM (Recency, Frequency, and Monetary) model, ultimately aiming to identify and target the company's most valuable customers.
   
   **outcomes**: 
+  
   By developing and executing SQL queries, I provided deep insights into sales trends, customer behavior, and meal preferences, while creating detailed visualizations with Pandas and Python 
   that enhanced decision-making processes and clearly illustrated key sales metrics; additionally, I proposed and implemented improvements to ETL frameworks, which simplified data transformations and ensured 
   higher accuracy, leading to more reliable analyses.
