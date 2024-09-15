@@ -39,7 +39,7 @@
 # Work Experience
 ## Consultant @ Accenture
 
-### Project**: Cloud Migration Strategy and Optimization
+### Cloud Migration Strategy and Optimization
   
   **Project Description**:
   In this cloud migration project, I played a key role in analyzing and optimizing infrastructure and application performance data post-migration. By leveraging SQL, Python, and predictive analytics, I 
@@ -61,7 +61,7 @@
     
  ## Consultant @ IBM
  
- ### Project: Infrastructure Performance Optimization and Predictive Maintenance Analytics
+ ### Infrastructure Performance Optimization and Predictive Maintenance Analytics
 
    **Project Description**:
    In this project, I focused on analyzing system performance metrics to enhance infrastructure health and efficiency. By leveraging SQL and Python, I provided comprehensive insights into error rates, 
