@@ -31,7 +31,7 @@ Bachelor of Science in Chemical Engineering - Georgia Institute of Technology | 
 - DataScience Project 4 details
 - DataScience Project 5 details
 - 
-## Work Experience
+# Work Experience
 ### Consultant @ Accenture
 - **Project**: Cloud Migration Strategy and Optimization
   **Project Description**:
@@ -50,8 +50,8 @@ Bachelor of Science in Chemical Engineering - Georgia Institute of Technology | 
   - Strengthened competitive positioning by applying predictive analytics to cloud migration forecasts and operational expenditures, enhancing customer acquisition strategies and ensuring successful project 
     wins.
     
-  ### Consultant @ IBM
-  - **Project**: Infrastructure Performance Optimization and Predictive Maintenance Analytics
+ ### Consultant @ IBM
+ - **Project**: Infrastructure Performance Optimization and Predictive Maintenance Analytics
   **Project Description**:
     In this project, I focused on analyzing system performance metrics to enhance infrastructure health and efficiency. By leveraging SQL and Python, I provided comprehensive insights into error rates, 
     latency, and resource utilization, leading to improved operational strategies and incident management.
