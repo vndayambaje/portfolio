@@ -1,8 +1,8 @@
 # Data Analyst
 
 # Education
-Masters of Information and Data Science - University of California at Berkeley | Berkeley | 2026
-Bachelor of Science in Chemical Engineering - Georgia Institute of Technology | Atlanta | 2016
+**Masters of Information and Data Science** - University of California at Berkeley | Berkeley | 2026
+**Bachelor of Science in Chemical Engineering** - Georgia Institute of Technology | Atlanta | 2016
 
 # Projects
 ## [Airbnb Exploratory Data Analysis (EDA): Factors Influencing Customer Ratings and Demand ](https://github.com/vndayambaje/Airbnb_EDA_Project)
@@ -33,17 +33,21 @@ Bachelor of Science in Chemical Engineering - Georgia Institute of Technology | 
   
 # Work Experience
 ### Consultant @ Accenture
-- **Project**: Cloud Migration Strategy and Optimization
+
+  **Project**: Cloud Migration Strategy and Optimization
+  
   **Project Description**:
   In this cloud migration project, I played a key role in analyzing and optimizing infrastructure and application performance data post-migration. By leveraging SQL, Python, and predictive analytics, I 
   provided insights to drive decision-making, ensuring operational efficiency and compliance with legal data privacy regulations. I developed a migration strategy that reduced completion time and costs 
   compared to similar projects.
+  
   **Responsibilities**:
   - Utilized SQL and Python to create ETL pipelines, extracting and analyzing data from previous projects on team composition, timelines, costs, regulatory requirements, infrastructure capacity, application 
     dependencies, data privacy, security protocols, and both pre- and post-migration performance to develop a comprehensive cloud migration strategy.
   - Translated business objectives into actionable analysis, providing recommendations to client management on decision-making, regulatory compliance, and operational improvements during and after migration.
   - Collaborated with Operations, Data Science, Engineering, and management teams to analyze infrastructure performance, monitor post-migration operational health, and identify opportunities to improve 
     efficiency.
+    
   **Results**:
   - Developed a migration strategy that reduced project completion time by 15% and cut project expenditures by 10%.
   - Provided clear insights into infrastructure performance, enabling senior management to optimize resource allocation and address operational challenges post-migration.
@@ -51,16 +55,20 @@ Bachelor of Science in Chemical Engineering - Georgia Institute of Technology | 
     wins.
     
  ### Consultant @ IBM
- - **Project**: Infrastructure Performance Optimization and Predictive Maintenance Analytics
+ 
+   **Project**: Infrastructure Performance Optimization and Predictive Maintenance Analytics
+
    **Project Description**:
    In this project, I focused on analyzing system performance metrics to enhance infrastructure health and efficiency. By leveraging SQL and Python, I provided comprehensive insights into error rates, 
    latency, and resource utilization, leading to improved operational strategies and incident management.
+   
    **Responsibilities**:
    - Utilized SQL to collect and query data on system performance, error rates, and resource utilization, enabling thorough analysis of critical infrastructure metrics and identification of performance 
      trends.
    - Employed Python for advanced data analysis and visualization, processing large datasets to uncover latency patterns and error rate correlations, which informed the development of proactive maintenance 
      strategies.
    - Developed and automated reporting tools and dashboards, consolidating metrics from various infrastructures to support SREs in predicting potential failures and optimizing resource allocation.
+     
    **Results**:
    - Achieved a 10% reduction in error rates and improved overall system health through detailed analysis and targeted performance improvements.
    - Realized a 20% improvement in incident response times and more effective resource allocation by implementing data-driven maintenance strategies.
