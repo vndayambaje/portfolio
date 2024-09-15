@@ -14,11 +14,16 @@
   insights for better decision-making regarding resource allocation.
 
   **Key Questions**:
-  - Which countries have the highest number of Airbnb listings? I identified the top 10 countries based on listing volume.
-  - What is the relationship between listing features and ratings? I examined correlations between various listing attributes and customer ratings.
-  - How do highly rated and popular listings differ from less popular and lower-rated ones? I compared the features of top-performing listings with those of less successful ones.
-  - Which countries exhibit a high number of popular and highly rated listings? I determined countries with both a high volume of top listings and a high percentage of such listings.
-  - What are the key locations within these countries that should be prioritized for resource allocation? I identified specific locations where increased investment could yield significant returns.
+  - Which countries have the highest number of Airbnb listings?
+    - I identified the top 10 countries based on listing volume.
+  - What is the relationship between listing features and ratings?
+    - I examined correlations between various listing attributes and customer ratings.
+  - How do highly rated and popular listings differ from less popular and lower-rated ones?
+    - I compared the features of top-performing listings with those of less successful ones.
+  - Which countries exhibit a high number of popular and highly rated listings?
+    - I determined countries with both a high volume of top listings and a high percentage of such listings.
+  - What are the key locations within these countries that should be prioritized for resource allocation?
+    - I identified specific locations where increased investment could yield significant returns.
 
   **Outcome**: 
   
