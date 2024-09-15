@@ -1,7 +1,7 @@
 title: "Victor Ndayambaje" # Your site title
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 
 # Custom assets for styling
 sass:
