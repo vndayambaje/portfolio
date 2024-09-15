@@ -65,7 +65,7 @@
 # Work Experience
 ## Consultant @ Accenture
 
-### Cloud Migration Strategy and Optimization
+### Project Name: Cloud Migration Strategy and Optimization
   
   **Project Description**:
   
@@ -88,7 +88,7 @@
 
 ## Consultant @ IBM
  
- ### Infrastructure Performance Optimization and Predictive Maintenance Analytics
+### Project Name: Infrastructure Performance Optimization and Predictive Maintenance Analytics
 
    **Project Description**:
    
