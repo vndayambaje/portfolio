@@ -1,3 +1,5 @@
-title: "Victor Ndayambaje"
-logo: "/assets/img/IMG_5977.PNG"
+title: Victor Ndayambaje
+logo: /assets/img/IMG_5977.PNG
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
