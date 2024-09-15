@@ -8,8 +8,7 @@
 # Projects
 ## [Airbnb Exploratory Data Analysis (EDA): Factors Influencing Customer Ratings and Demand ](https://github.com/vndayambaje/Airbnb_EDA_Project)
   **Technologies**: 
-  
-  Python, Data Cleaning, Data Preprocessing, Data Analysis, Exploratory Data Analysis, Visualization (Matplotlib)
+    Python, Data Cleaning, Data Preprocessing, Data Analysis, Exploratory Data Analysis, Visualization (Matplotlib)
   **Objective**: 
   
   This project aims to explore and analyze the characteristics and features of Airbnb listings to understand their influence on customer ratings and demand. The goal is to provide actionable 
