@@ -8,7 +8,9 @@
 # Projects
 ## [Airbnb Exploratory Data Analysis (EDA): Factors Influencing Customer Ratings and Demand ](https://github.com/vndayambaje/Airbnb_EDA_Project)
   **Technologies**: 
+  
     Python, Data Cleaning, Data Preprocessing, Data Analysis, Exploratory Data Analysis, Visualization (Matplotlib)
+    
   **Objective**: 
   
   This project aims to explore and analyze the characteristics and features of Airbnb listings to understand their influence on customer ratings and demand. The goal is to provide actionable 
@@ -33,7 +35,10 @@
 
   ![PLACEHOLDER FOR IMAGE](/assets/img/Airbnb.jpg)
 ## [Analyzing Historical Stock and Revenue and Building a Dashboad](https://github.com/vndayambaje/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard.git)
-
+  **Technologies**: 
+  
+  Python, Web Scraping, Data Visualization (Plotly)
+  
   **Objective**: 
   
   This project aims to assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. My job was to extract 
@@ -43,6 +48,10 @@
   
   After collecting this data I visualized it in a dashboard to identify patterns or trends. The stocks I worked with were Tesla, Amazon, AMD, and GameStop.
 ## [AGM Startup Restaurant: Sales Data and Customer Behavior Analysis with Visualization](https://github.com/vndayambaje/ACM-Startup-Restaurant-Sales-Data-and-Customer-Behavior-Analysis-with-Visualization.git)
+  **Technologies**: 
+  
+  SQL, Python, Pandas, Jupyter Notebook, Postgres, AWS, Docker
+  
   **Objective**: 
   
   This project focused on analyzing sales data for AGM Startup Restaurant using SQL and Python within a Docker cluster, with the goal of extracting actionable insights and creating impactful 
