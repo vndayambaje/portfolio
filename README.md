@@ -37,7 +37,7 @@
   higher accuracy, leading to more reliable analyses.
   
 # Work Experience
-### Consultant @ Accenture
+## Consultant @ Accenture
 
   **Project**: Cloud Migration Strategy and Optimization
   
@@ -59,7 +59,7 @@
   - Strengthened competitive positioning by applying predictive analytics to cloud migration forecasts and operational expenditures, enhancing customer acquisition strategies and ensuring successful project 
     wins.
     
- ### Consultant @ IBM
+ ## Consultant @ IBM
  
    **Project**: Infrastructure Performance Optimization and Predictive Maintenance Analytics
 
