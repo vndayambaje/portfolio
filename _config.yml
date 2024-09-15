@@ -4,8 +4,9 @@ plugins:
   - jekyll-remote-theme
 logo: /assets/img/IMG_5977.PNG
 
-# Link to custom CSS
-markdown: kramdown
+# Custom assets
 sass:
   style: compressed
-custom_css: /assets/css/custom.css
+assets:
+  css:
+    - /assets/css/custom.css
