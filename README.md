@@ -7,7 +7,9 @@
 
 # Projects
 ## [Airbnb Exploratory Data Analysis (EDA): Factors Influencing Customer Ratings and Demand ](https://github.com/vndayambaje/Airbnb_EDA_Project)
-
+  **Technologies**: 
+  
+  Python, Data Cleaning, Data Preprocessing, Data Analysis, Exploratory Data Analysis, Visualization (Matplotlib)
   **Objective**: 
   
   This project aims to explore and analyze the characteristics and features of Airbnb listings to understand their influence on customer ratings and demand. The goal is to provide actionable 
@@ -59,6 +61,7 @@
 ### Cloud Migration Strategy and Optimization
   
   **Project Description**:
+  
   In this cloud migration project, I played a key role in analyzing and optimizing infrastructure and application performance data post-migration. By leveraging SQL, Python, and predictive analytics, I 
   provided insights to drive decision-making, ensuring operational efficiency and compliance with legal data privacy regulations. I developed a migration strategy that reduced completion time and costs 
   compared to similar projects.
@@ -81,6 +84,7 @@
  ### Infrastructure Performance Optimization and Predictive Maintenance Analytics
 
    **Project Description**:
+   
    In this project, I focused on analyzing system performance metrics to enhance infrastructure health and efficiency. By leveraging SQL and Python, I provided comprehensive insights into error rates, 
    latency, and resource utilization, leading to improved operational strategies and incident management.
    
